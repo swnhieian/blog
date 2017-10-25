@@ -72,4 +72,10 @@ theme: miho
 deploy:
   type: git
   repo: git@github.com:swnhieian/blog.git
+
   
+flowchart:
+  options:
+    
+sequence:
+  options:
